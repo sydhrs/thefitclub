@@ -1,3 +1,10 @@
+![Hero](https://github.com/catherineisonline/weather-now/blob/main/public/project-preview-1.png?raw=true)
+
+# The Fit Club
+
+This is a single page website for a fitness club using ReactJs
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
