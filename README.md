@@ -4,6 +4,7 @@
 
 This is a single page website for a fitness club using ReactJs
 
+Live Demo: [The Fit Club](https://trythefitclub.vercel.app/)
 
 # Getting Started with Create React App
 
