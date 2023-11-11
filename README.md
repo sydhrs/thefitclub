@@ -1,4 +1,4 @@
-![Hero](https://github.com/catherineisonline/weather-now/blob/main/public/project-preview-1.png?raw=true)
+![Hero](https://github.com/sydhrs/thefitclub/blob/main/public/hero.png)
 
 # The Fit Club
 
