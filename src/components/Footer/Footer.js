@@ -13,9 +13,8 @@ function Footer() {
       <hr />
       <div className="footer">
         <div className="social-links">
-          <img src={Github} alt="Github" />
-          <img src={Instagram} alt="Instagram" />
-          <img src={LinkedIn} alt="Linked in" />
+          <img src={Github} alt="Github" onClick={() => window.open('https://github.com/sydhrs', '_blank')}/>
+          <img src={LinkedIn} alt="Linked in" onClick={() => window.open('https://www.linkedin.com/in/syed-haris-77b366106/', '_blank')}/>
        
 
         </div>
